@@ -1,0 +1,5 @@
+estando na pasta WATTPAD:
+
+git add .
+git commit -m "Texto"
+git push origin main
